@@ -12,10 +12,11 @@ Features
 
 
 Technologies Used
-Programming Language: Python
 
-Machine Learning Framework: TensorFlow 
+=>Programming Language: Python
 
-Database: Redis 
+=>Machine Learning Framework: TensorFlow 
 
-Other Libraries: Pandas, NumPy, scikit-learn, etc.
+=>Database: Mysql 
+
+=>Other Libraries: Pandas, NumPy, scikit-learn, etc.
