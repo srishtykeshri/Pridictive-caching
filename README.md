@@ -10,10 +10,12 @@ Features
 
 ->Evaluation Metrics: Includes metrics to assess cache hit ratio, latency reduction, and overall system efficiency.
 
-Technologies Used
 
+Technologies Used
 Programming Language: Python
 
 Machine Learning Framework: TensorFlow 
+
 Database: Redis 
+
 Other Libraries: Pandas, NumPy, scikit-learn, etc.
