@@ -11,7 +11,9 @@ Features
 ->Evaluation Metrics: Includes metrics to assess cache hit ratio, latency reduction, and overall system efficiency.
 
 Technologies Used
+
 Programming Language: Python
-Machine Learning Framework: TensorFlow or PyTorch (mention which one)
-Database: Redis (or any other caching database used)
+
+Machine Learning Framework: TensorFlow 
+Database: Redis 
 Other Libraries: Pandas, NumPy, scikit-learn, etc.
